@@ -1,5 +1,11 @@
 # 코드이그나이터4 정리
 
+## 설치
+
+```bash
+composer create-project codeigniter4/appstarter project-root
+```
+
 ## 컨트롤러 생성
 
 ```bash
